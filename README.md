@@ -40,6 +40,7 @@ ___________________________________
 
 
 **First Execution Screen:**
+
 ![First Execution Screen](./examples/FirstScreen.png)
 
 ___________________________________
