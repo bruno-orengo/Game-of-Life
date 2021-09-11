@@ -26,7 +26,7 @@ This code is already completed, I do not intend to further modify it and no more
 
 ## How to Use It
 
-Just compile the main.c file and run the program. Make sure to follow the menu options and that's it.
+Just compile the main.c file and run the program, then all you need to do is follow the menu options.
 
 **Menu Options:**
 
