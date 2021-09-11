@@ -35,7 +35,7 @@ Just compile the main.c file and run the program. Make sure to follow the menu o
 `Rate of new generations:` Rate in which new generations will be created; measured in seconds.\
 `Number of generations to be stable:` Sets the amount of generations in which the program will stop if the population remains the same.\
 `Limit generations:` Sets wheter or not to set a max number of generations.\
-`Max number of generations:` Sets the max number of generations if the previous option was 'y'.
+`Max number of generations:` Sets the max number of generations if the answer to the previous option was 'y'.
 
 ## Example
 
