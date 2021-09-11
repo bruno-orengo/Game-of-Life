@@ -30,11 +30,11 @@ Just compile the main.c file and run the program. Make sure to follow the menu o
 
 **Menu Options:**
 
-`Row Size:` Number of rows.\n
-`Columns size:` Number of columns.
-`Rate of new generations:` Rate in which new generations will be created; measured in seconds.\n
-`Number of generations to be stable:` Sets the amount of generations in which the program will stop if the population remains the same.\n
-`Limit generations:` Sets wheter or not to set a max number of generations.\n
+`Row Size:` Number of rows.\
+`Columns size:` Number of columns.\
+`Rate of new generations:` Rate in which new generations will be created; measured in seconds.\
+`Number of generations to be stable:` Sets the amount of generations in which the program will stop if the population remains the same.\
+`Limit generations:` Sets wheter or not to set a max number of generations.\
 `Max number of generations:` Sets the max number of generations if the previous option was 'y'.
 
 ## Example
